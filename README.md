@@ -1,5 +1,6 @@
-# Todo List App
+# Task-1: Create a Basic React App with Navigation
 
+## ToDo List
 This is a simple React app for managing daily tasks. You can add new tasks, mark them as done, edit them, delete them, and search through them.
 
 ## What the project does
