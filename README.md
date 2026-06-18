@@ -76,7 +76,3 @@ Preview the production build:
 npm run preview
 ```
 
-## Notes
-
-- This is a web app made with React and Vite.
-- Your tasks are stored only in this browser.
