@@ -46,7 +46,7 @@ This is a simple React app for managing daily tasks. You can add new tasks, mark
 
 ## Demo
 
-![Todo App Demo](images/demo.gfi)
+![Todo App Demo](images/v.gfi)
 
 ## Project files
 
