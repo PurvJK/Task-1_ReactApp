@@ -44,6 +44,8 @@ This is a simple React app for managing daily tasks. You can add new tasks, mark
   
 14. The app saves your tasks in the browser, so they stay after refresh.
 
+![Todo App Demo](images/demo.gif)
+
 ## Project files
 
 - `src/App.jsx` - main todo app logic and UI
